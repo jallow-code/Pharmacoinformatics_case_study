@@ -7,12 +7,14 @@ This directory contains the report and the final figures used in it.
 | File | Purpose |
 |---|---|
 | `workflow_results_report.qmd` | main technical report |
+| `presentation_draft.qmd` | PowerPoint draft based on the final workflow and figures |
 | `figures/workflow.png` | workflow overview |
 | `figures/WT_C326Y_Y64N.png` | `WT`, `C326Y`, and `Y64N` structural panel |
 | `figures/validation_pose_overlay.png` | WT validation figure |
 | `figures/analog_modification_pairs.png` | analog design panel |
 | `figures/top_ranked_analog_panel.png` | top-ranked analog structures |
 | `figures/c326y_top_hits_overlay.png` | structural overlay for the top `C326Y` hits |
+| `figures/presentation/ranking_heatmap.png` | compact ranked-results heatmap for the presentation |
 
 ## Related result tables
 
