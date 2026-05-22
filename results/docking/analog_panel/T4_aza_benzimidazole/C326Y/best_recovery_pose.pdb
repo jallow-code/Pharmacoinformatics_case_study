@@ -1,0 +1,59 @@
+COMPND    /home/jallow/pharmacoinformatics/case_study/results/docking/analog_panel/T4_aza_benzimidazole/C326Y/T4_aza_benzimidazole_C326Y_dock_out.pdbqt
+HETATM    1  C1  UNL     1     117.429 122.417 120.031  1.00  0.00           C  
+HETATM    2  C2  UNL     1     117.897 122.026 121.397  1.00  0.00           C  
+HETATM    3  C3  UNL     1     118.018 121.845 123.499  1.00  0.00           C  
+HETATM    4  C4  UNL     1     119.154 121.302 122.932  1.00  0.00           C  
+HETATM    5  N1  UNL     1     117.210 122.305 122.525  1.00  0.00           N  
+HETATM    6  O1  UNL     1     119.044 121.432 121.633  1.00  0.00           O  
+HETATM    7  C5  UNL     1     117.718 121.991 124.933  1.00  0.00           C  
+HETATM    8  O2  UNL     1     118.661 121.902 125.765  1.00  0.00           O  
+HETATM    9  N2  UNL     1     116.375 122.203 125.395  1.00  0.00           N  
+HETATM   10  H1  UNL     1     115.614 122.415 124.713  1.00  0.00           H  
+HETATM   11  C6  UNL     1     116.013 122.087 126.807  1.00  0.00           C  
+HETATM   12  C7  UNL     1     115.245 120.818 127.043  1.00  0.00           C  
+HETATM   13  N3  UNL     1     115.611 119.680 126.390  1.00  0.00           N  
+HETATM   14  C8  UNL     1     114.130 120.798 127.897  1.00  0.00           C  
+HETATM   15  C9  UNL     1     114.934 118.511 126.548  1.00  0.00           C  
+HETATM   16  C10 UNL     1     113.422 119.607 128.070  1.00  0.00           C  
+HETATM   17  F1  UNL     1     113.732 121.920 128.550  1.00  0.00           F  
+HETATM   18  C11 UNL     1     113.825 118.454 127.395  1.00  0.00           C  
+HETATM   19  C12 UNL     1     116.130 121.685 119.704  1.00  0.00           C  
+HETATM   20  N4  UNL     1     115.776 121.884 118.294  1.00  0.00           N  
+HETATM   21  H2  UNL     1     115.679 122.910 118.106  1.00  0.00           H  
+HETATM   22  C13 UNL     1     114.526 121.200 117.918  1.00  0.00           C  
+HETATM   23  C14 UNL     1     114.155 121.362 116.429  1.00  0.00           C  
+HETATM   24  C15 UNL     1     115.324 121.121 115.519  1.00  0.00           C  
+HETATM   25  N5  UNL     1     116.165 122.112 115.113  1.00  0.00           N  
+HETATM   26  N6  UNL     1     115.676 119.889 115.067  1.00  0.00           N  
+HETATM   27  C16 UNL     1     117.078 121.445 114.385  1.00  0.00           C  
+HETATM   28  C17 UNL     1     116.788 120.118 114.361  1.00  0.00           C  
+HETATM   29  H3  UNL     1     115.207 118.975 115.253  1.00  0.00           H  
+HETATM   30  C18 UNL     1     118.202 121.956 113.744  1.00  0.00           C  
+HETATM   31  C19 UNL     1     117.606 119.211 113.697  1.00  0.00           C  
+HETATM   32  C20 UNL     1     119.025 121.035 113.068  1.00  0.00           C  
+HETATM   33  N7  UNL     1     118.713 119.699 113.061  1.00  0.00           N  
+CONECT    1    2   19
+CONECT    2    5    5    6
+CONECT    3    4    4    5    7
+CONECT    4    6
+CONECT    7    8    8    9
+CONECT    9   10   11
+CONECT   11   12
+CONECT   12   13   14   14
+CONECT   13   15   15
+CONECT   14   16   17
+CONECT   15   18
+CONECT   16   18   18
+CONECT   19   20
+CONECT   20   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   25   26
+CONECT   25   27
+CONECT   26   28   29
+CONECT   27   28   28   30
+CONECT   28   31
+CONECT   30   32   32
+CONECT   31   33   33
+CONECT   32   33
+END

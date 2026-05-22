@@ -1,0 +1,4 @@
+pdb_id,ligand,role,planned_use,notes
+6WBV,hepcidin,natural_regulation_reference,interaction_comparison,Use for hepcidin contact logic and regulatory context
+8C03,vamifeport,small_molecule_template,docking_template,Use for WT redocking and mutant benchmarking
+8DL7,PR73,mimetic_comparator,interaction_comparison,Use for peptide-like comparator logic

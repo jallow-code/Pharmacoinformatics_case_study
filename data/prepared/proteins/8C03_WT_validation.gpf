@@ -1,0 +1,29 @@
+parameter_file boron-silicon-atom_par.dat
+npts 48 48 58
+gridfld 8C03_WT_validation.maps.fld
+spacing 0.375
+receptor_types OA SA N C A NA
+ligand_types HD C A N NA OA F P SA S Cl CL Br BR I Si B
+receptor /home/jallow/pharmacoinformatics/case_study/data/prepared/proteins/8C03_WT_validation.pdbqt
+gridcenter 116.591 120.154 122.152
+smooth 0.500
+map 8C03_WT_validation.HD.map
+map 8C03_WT_validation.C.map
+map 8C03_WT_validation.A.map
+map 8C03_WT_validation.N.map
+map 8C03_WT_validation.NA.map
+map 8C03_WT_validation.OA.map
+map 8C03_WT_validation.F.map
+map 8C03_WT_validation.P.map
+map 8C03_WT_validation.SA.map
+map 8C03_WT_validation.S.map
+map 8C03_WT_validation.Cl.map
+map 8C03_WT_validation.CL.map
+map 8C03_WT_validation.Br.map
+map 8C03_WT_validation.BR.map
+map 8C03_WT_validation.I.map
+map 8C03_WT_validation.Si.map
+map 8C03_WT_validation.B.map
+elecmap 8C03_WT_validation.e.map
+dsolvmap 8C03_WT_validation.d.map
+dielectric -42.000

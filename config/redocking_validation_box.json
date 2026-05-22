@@ -1,0 +1,14 @@
+{
+  "reference_complex": "data/raw/structures/8C03.pdb",
+  "reference_ligand": "SZU:A:601",
+  "box": {
+    "center_x": 116.591,
+    "center_y": 120.154,
+    "center_z": 122.152,
+    "size_x": 18.0,
+    "size_y": 18.0,
+    "size_z": 22.34,
+    "padding": 4.0,
+    "min_box_side": 18.0
+  }
+}

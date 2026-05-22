@@ -1,0 +1,16 @@
+receptor = data/prepared/proteins/8C03_WT_validation.pdbqt
+ligand = data/prepared/ligands/redocking_state_panel/current_linker_protonated.pdbqt
+
+center_x = 116.591
+center_y = 120.154
+center_z = 122.152
+
+size_x = 15.12
+size_y = 15.12
+size_z = 18.766
+
+exhaustiveness = 16
+num_modes = 20
+energy_range = 4
+seed = 20260521
+cpu = 0

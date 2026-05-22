@@ -1,0 +1,29 @@
+parameter_file boron-silicon-atom_par.dat
+npts 40 40 50
+gridfld 8C03_WT_production.maps.fld
+spacing 0.375
+receptor_types SA NA OA C A N
+ligand_types HD C A N NA OA F P SA S Cl CL Br BR I Si B
+receptor /home/jallow/pharmacoinformatics/case_study/data/prepared/proteins/production/8C03_WT_production.pdbqt
+gridcenter 116.591 120.154 122.152
+smooth 0.500
+map 8C03_WT_production.HD.map
+map 8C03_WT_production.C.map
+map 8C03_WT_production.A.map
+map 8C03_WT_production.N.map
+map 8C03_WT_production.NA.map
+map 8C03_WT_production.OA.map
+map 8C03_WT_production.F.map
+map 8C03_WT_production.P.map
+map 8C03_WT_production.SA.map
+map 8C03_WT_production.S.map
+map 8C03_WT_production.Cl.map
+map 8C03_WT_production.CL.map
+map 8C03_WT_production.Br.map
+map 8C03_WT_production.BR.map
+map 8C03_WT_production.I.map
+map 8C03_WT_production.Si.map
+map 8C03_WT_production.B.map
+elecmap 8C03_WT_production.e.map
+dsolvmap 8C03_WT_production.d.map
+dielectric -42.000

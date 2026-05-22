@@ -1,0 +1,5 @@
+state_id,gene,protein_change,mechanism_class,role,evidence_note,priority
+WT,SLC40A1,WT,reference,normal_baseline,Reference ferroportin state for all comparisons,locked
+C326Y,SLC40A1,p.Cys326Tyr,gain_of_function_hepcidin_resistance,primary_mutant,Classic mechanistic benchmark mutant,locked
+Y64N,SLC40A1,p.Tyr64Asn,gain_of_function_hepcidin_resistance,primary_mutant,Strong functional support for hepcidin-resistant behavior,locked
+Y333H,SLC40A1,p.Tyr333His,clinical_gain_of_function_signal,future_extension,Recent clinically supported extension mutant,candidate_extension

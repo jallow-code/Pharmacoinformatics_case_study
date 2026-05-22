@@ -1,0 +1,15 @@
+receptor = data/prepared/proteins/8C03_WT_validation.pdbqt
+ligand = data/prepared/ligands/8C03_SZU_bound_reference.pdbqt
+
+center_x = 116.591
+center_y = 120.154
+center_z = 122.152
+
+size_x = 18.0
+size_y = 18.0
+size_z = 22.34
+
+exhaustiveness = 16
+num_modes = 20
+energy_range = 4
+cpu = 0

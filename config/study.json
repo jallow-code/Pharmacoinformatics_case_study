@@ -1,0 +1,67 @@
+{
+  "project_title": "SLC40A1 Ferroportin Inhibitor Project",
+  "disease_focus": "SLC40A1 gain-of-function hemochromatosis",
+  "protein": {
+    "gene": "SLC40A1",
+    "protein_name": "Ferroportin",
+    "uniprot_id": "Q9NP59"
+  },
+  "states": [
+    {
+      "state_id": "WT",
+      "protein_change": "WT",
+      "role": "reference"
+    },
+    {
+      "state_id": "C326Y",
+      "protein_change": "p.Cys326Tyr",
+      "role": "primary_mutant"
+    },
+    {
+      "state_id": "Y64N",
+      "protein_change": "p.Tyr64Asn",
+      "role": "primary_mutant"
+    }
+  ],
+  "extension_states": [
+    {
+      "state_id": "Y333H",
+      "protein_change": "p.Tyr333His",
+      "role": "future_extension"
+    }
+  ],
+  "reference_structures": [
+    {
+      "pdb_id": "6WBV",
+      "ligand": "hepcidin",
+      "role": "natural_regulation_reference"
+    },
+    {
+      "pdb_id": "8C03",
+      "ligand": "vamifeport",
+      "role": "small_molecule_template"
+    },
+    {
+      "pdb_id": "8DL7",
+      "ligand": "PR73",
+      "role": "mimetic_comparator"
+    }
+  ],
+  "ligand_strategy": {
+    "reference_ligand": "vamifeport",
+    "mode": "known_scaffold_optimization",
+    "candidate_analog_target_count": 10,
+    "control_target_count": 2
+  },
+  "workflow": {
+    "redock_reference_ligand_in_wt": true,
+    "dock_reference_ligand_in_mutants": true,
+    "compare_contacts_to_hepcidin_and_pr73": true,
+    "md_top_ligands": 2,
+    "md_states": [
+      "WT",
+      "C326Y",
+      "Y64N"
+    ]
+  }
+}

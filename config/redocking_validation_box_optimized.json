@@ -1,0 +1,20 @@
+{
+  "reference_complex": "data/raw/structures/8C03.pdb",
+  "reference_ligand_state": "current_linker_protonated",
+  "selection_basis": "WT re-docking setup sweep using current_linker_protonated",
+  "selected_config_id": "box_084_ex16",
+  "box": {
+    "center_x": 116.591,
+    "center_y": 120.154,
+    "center_z": 122.152,
+    "size_x": 15.12,
+    "size_y": 15.12,
+    "size_z": 18.766
+  },
+  "vina": {
+    "exhaustiveness": 16,
+    "num_modes": 20,
+    "energy_range": 4,
+    "seed": 20260521
+  }
+}

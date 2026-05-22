@@ -1,0 +1,59 @@
+COMPND    /home/jallow/pharmacoinformatics/case_study/results/docking/analog_panel/vamifeport/C326Y/vamifeport_C326Y_dock_out.pdbqt
+HETATM    1  C1  UNL     1     118.863 118.376 123.101  1.00  0.00           C  
+HETATM    2  C2  UNL     1     118.236 118.991 121.892  1.00  0.00           C  
+HETATM    3  C3  UNL     1     117.918 119.631 119.907  1.00  0.00           C  
+HETATM    4  C4  UNL     1     116.893 120.101 120.700  1.00  0.00           C  
+HETATM    5  N1  UNL     1     118.782 118.925 120.660  1.00  0.00           N  
+HETATM    6  O1  UNL     1     117.122 119.689 121.923  1.00  0.00           O  
+HETATM    7  C5  UNL     1     118.083 119.870 118.466  1.00  0.00           C  
+HETATM    8  O2  UNL     1     118.232 118.891 117.685  1.00  0.00           O  
+HETATM    9  N2  UNL     1     118.071 121.208 117.949  1.00  0.00           N  
+HETATM   10  H1  UNL     1     118.045 122.013 118.614  1.00  0.00           H  
+HETATM   11  C6  UNL     1     118.079 121.496 116.516  1.00  0.00           C  
+HETATM   12  C7  UNL     1     116.706 121.906 116.067  1.00  0.00           C  
+HETATM   13  N3  UNL     1     115.688 121.904 116.972  1.00  0.00           N  
+HETATM   14  C8  UNL     1     116.442 122.263 114.733  1.00  0.00           C  
+HETATM   15  C9  UNL     1     114.416 122.242 116.629  1.00  0.00           C  
+HETATM   16  C10 UNL     1     115.142 122.613 114.363  1.00  0.00           C  
+HETATM   17  F1  UNL     1     117.428 122.269 113.800  1.00  0.00           F  
+HETATM   18  C11 UNL     1     114.120 122.605 115.314  1.00  0.00           C  
+HETATM   19  C12 UNL     1     119.777 119.382 123.797  1.00  0.00           C  
+HETATM   20  N4  UNL     1     119.349 120.748 123.468  1.00  0.00           N  
+HETATM   21  H2  UNL     1     120.148 121.223 122.985  1.00  0.00           H  
+HETATM   22  C13 UNL     1     119.005 121.520 124.674  1.00  0.00           C  
+HETATM   23  C14 UNL     1     117.536 121.952 124.632  1.00  0.00           C  
+HETATM   24  C15 UNL     1     116.718 121.224 125.654  1.00  0.00           C  
+HETATM   25  N5  UNL     1     115.649 121.785 126.280  1.00  0.00           N  
+HETATM   26  N6  UNL     1     116.913 119.919 125.968  1.00  0.00           N  
+HETATM   27  C16 UNL     1     115.177 120.770 127.026  1.00  0.00           C  
+HETATM   28  C17 UNL     1     115.934 119.652 126.840  1.00  0.00           C  
+HETATM   29  H3  UNL     1     117.645 119.271 125.603  1.00  0.00           H  
+HETATM   30  C18 UNL     1     114.075 120.777 127.878  1.00  0.00           C  
+HETATM   31  C19 UNL     1     115.660 118.451 127.492  1.00  0.00           C  
+HETATM   32  C20 UNL     1     113.769 119.583 128.561  1.00  0.00           C  
+HETATM   33  C21 UNL     1     114.560 118.426 128.370  1.00  0.00           C  
+CONECT    1    2   19
+CONECT    2    5    5    6
+CONECT    3    4    4    5    7
+CONECT    4    6
+CONECT    7    8    8    9
+CONECT    9   10   11
+CONECT   11   12
+CONECT   12   13   13   14
+CONECT   13   15
+CONECT   14   16   16   17
+CONECT   15   18   18
+CONECT   16   18
+CONECT   19   20
+CONECT   20   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   25   26
+CONECT   25   27
+CONECT   26   28   29
+CONECT   27   28   30   30
+CONECT   28   31   31
+CONECT   30   32
+CONECT   31   33
+CONECT   32   33   33
+END

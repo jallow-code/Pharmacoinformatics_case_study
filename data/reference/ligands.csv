@@ -1,0 +1,11 @@
+compound_id,series,role,status,selection_rule,notes
+vamifeport,vamifeport_round1,reference,locked,Validated protonated parent scaffold,Benchmark ligand for WT and mutant comparison
+H1_desfluoro,vamifeport_round1,candidate,selected,Single headgroup fluorine removal,Tests whether the headgroup fluorine is a hard requirement
+H2_pyrimidyl,vamifeport_round1,candidate,selected,Single aza-aryl headgroup swap,Tests whether added headgroup polarity helps mutant tolerance
+H3_regiofluoro,vamifeport_round1,candidate,selected,Single fluoropyridyl regioisomer,Tests whether headgroup vector geometry is tightly constrained
+T1_benzoxazole,vamifeport_round1,candidate,selected,Single distal benzoxazole swap,Tests distal donor removal with minimal size change
+T2_benzothiazole,vamifeport_round1,candidate,selected,Single distal benzothiazole swap,Tests a softer more hydrophobic fused tail near C326Y
+T3_n_methyl_benzimidazole,vamifeport_round1,candidate,selected,Single distal NH-blocking edit,Direct donor-removal control at the parent tail
+T4_aza_benzimidazole,vamifeport_round1,candidate,selected,Single distal aza-benzimidazole swap,Tests whether extra distal polarity helps mutant tolerance
+L1_tertiary_amine,vamifeport_round1,candidate,selected,Single linker tertiary amine edit,Tests whether the cationic linker needs an NH donor
+C1_thiazole_core,vamifeport_round1,candidate,selected,Single core O-to-S isostere,High-risk test of central heteroaryl electronics
